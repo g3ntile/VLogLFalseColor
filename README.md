@@ -11,8 +11,13 @@ So I made a profile tailored to my specific tastes and needs. I tweaked it a lot
 * The skin tones (lit parts) go from 42 to 55
 * The reflective white (that is like a white paper or a white wall well lit, called White 90%) is mapped to 61 IRE.
 * Above that on yellow and orange you should have only specular higlights, strong reflections, or practical light sources.
-* Red is clipping so it's reserved for direct light sources or the sun, or anything you know will be irrevocably clipped
+* Red is clipping so it's reserved for direct light sources or the sun, or anything you know will be irrevocably clipped.
+* Below the Middle Gray you have a green area for the brighter shaded areas, 1 stop below lit skin.
+* dark cyan indicate deeper shadow, but still lots of texture and detail.
+* in the blue zones you start to loose  texture and detail.
+* Blue/purple is almost clipped, too much noise, little detail, these will not stand much pushing.
+* Deep purple is black clip
 
-Reference card for using the FLS_FA False Color LUT profile for exposing video in VLog-L cameras like the Lumix GH5.
+This is a reference card with this info plotted in table form. The rightmost column indicates the level at which the noise starts to become a problem at each ISO. This is of course very subjective and based on my own footage-noise-tolerance (if that thing exists), and tested in my own GH5 in an extremely unscientific environment. Use at your own risk.
 ![Color table](/FLS_21FD_ref.png)
 
