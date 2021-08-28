@@ -23,7 +23,9 @@ So I made a profile tailored to my specific tastes and needs. I tweaked it a lot
 * Deep purple is black clip
 
 This is a reference card with this info plotted in table form. 
-The rightmost column indicates the level at which the noise starts to become a problem at each ISO. This is of course very subjective and based on my own footage-noise-tolerance (if that thing exists), and tested in my own GH5 in an extremely unscientific environment. Use at your own risk.
+The rightmost column indicates the level at which the noise starts to become a problem at each ISO. This is of course very subjective and based on my own footage-noise-tolerance (if that thing exists), and tested in my own GH5 in an extremely unscientific environment. 
+Use at your own risk.
+
 ![Color table](/FLS_21FD_ref.png)
 
 ### Installation
