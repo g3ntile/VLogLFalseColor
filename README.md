@@ -7,7 +7,7 @@ after a while using some of the standard ones out there, I found those profiles 
 So I made a profile tailored to my specific tastes and needs. I tweaked it a lot, and now that I'm happy with the result I share it with the community so other VLog-L users can benefit from it.
 * It's specifically designed and tested in a GH5 with Vlog-L. I don't know if it behaves properly in other VLog-L cameras or with the full VLog ones (like varicam).
 * The Vlog-L maps all colors between 7.3 and 80 IRE, so the color mapping respects that.
-* The Middle Gray (10% Gray, or Zone V) is mapped to 42 IRE, in a dark grey.
+* The Middle Gray (18% Gray, or Zone V) is mapped to 42 IRE, in a dark grey.
 * The skin tones (lit parts) go from 42 to 55
 * The reflective white (that is like a white paper or a white wall well lit, called White 90%) is mapped to 61 IRE.
 * Above that on yellow and orange you should have only specular higlights, strong reflections, or practical light sources.
