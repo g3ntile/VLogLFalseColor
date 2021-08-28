@@ -1,10 +1,10 @@
 # VLogLFalseColor
 ## False color profiles to use in VLog-L cameras like the Lumix GH5.
-False color is a technique used in many video cameras to get accurate information about the exposure of each part of the frame, and the lighting ratios between them.and
-The Lumix GH5 cameras with the VLog-L upgrade installed can use LUTs to better preview the flat looking log images.
-The false color LUTs map the brightness of each pixel to a different color, so you know instantly the level of each pixel. Darker areas are usually mapped to colder colors, and bright areas are mapped to hot colors.
-after a while using some of the standard ones out there, I found those profiles a little confusing, with muted colors or unclear boundaries between colors.
-So I made a profile tailored to my specific tastes and needs. I tweaked it a lot, and now that I'm happy with the result I share it with the community so other VLog-L users can benefit from it.
+False color is a technique used in many video cameras to get accurate information about the exposure of each part of the frame, and the lighting ratios between them.The brightness of each pixel is map to a different color, so you can guess instantly the level of each pixel. Darker areas are usually mapped to colder colors, and bright areas are mapped to hot colors.
+
+This is a false color LUT to be used in Panasonic Lumix cameras with Vlog-L color profiles, tweaked using a GH5.
+I found that other false color profiles available for the GH5 a little confusing, with muted colors or unclear boundaries between colors.
+So I made one tailored to my specific needs. I tweaked it a lot, and now that I'm happy with the result I share it with the community so other VLog-L users can benefit from it.
 
 ![False color usage example](/FalseColor_example.jpg)
 
