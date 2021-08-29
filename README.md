@@ -29,12 +29,12 @@ Use at your own risk.
 ![Color table](/FLS_21FD_ref.png)
 
 ### Installation
-1. Go to (Releases)[/releases/] and download the latest version.
-2. It's a zip, uncompress it
+1. Go to Releases https://github.com/g3ntile/VLogLFalseColor/releases/ and download the latest version.
+2. It's a zip, so uncompress it
 3. copy the .VLT file in the zip to an SD card that your Lumix camera can read
 4. Put the card in your Lumix camera and, if it's a GH5 go to the menu "V-LogL View Assist, inside the menu with the camera icon next to an "M" (in other cameras the procedure may be different, consult your manual)
 5. Select "Read LUT File
-4 assign the FLS_21FD Lut to any of the 5 custom slots.
-5. Go to LUT Select and select it
-6. You can save your settings, False Color included as one of the 5 customizable memories in the camera, labeled C1, C2, C3-1, C3-2 and C3-3 for convenience.
-7. I also assigned a quick button to "LUT Monitor Display" in the page 11/20 of the custom Fn buttons set. That toggles between plain log view and LUT, so you can easily turn on and off your False Color mode, even while recording.
+6. assign the FLS_21FD Lut to any of the 5 custom slots.
+7. Go to LUT Select and select it
+8. You can save your settings, False Color included as one of the 5 customizable memories in the camera, labeled C1, C2, C3-1, C3-2 and C3-3 for convenience.
+9. I also assigned a quick button to "LUT Monitor Display" in the page 11/20 of the custom Fn buttons set. That toggles between plain log view and LUT, so you can easily turn on and off your False Color mode, even while recording.
