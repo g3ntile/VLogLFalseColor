@@ -13,13 +13,13 @@ So I made one tailored to my specific needs. I tweaked it a lot, and now that I'
 * The Vlog-L maps all colors between 7.3 and 80 IRE, so the color mapping respects that.
 * The Middle Gray (18% Gray, or Zone V) is mapped to 42 IRE, in a dark grey.
 * The skin tones (lit parts) go from 42 to 55
-* The reflective white (that is like a white paper or a white wall well lit, called White 90%) is mapped to 61 IRE.
-* Above that on yellow and orange you should have only specular higlights, strong reflections, or practical light sources.
-* Red is clipping so it's reserved for direct light sources or the sun, or anything you know will be irrevocably clipped.
-* Below the Middle Gray you have a green area for the brighter shaded areas, 1 stop below lit skin.
-* dark cyan indicate deeper shadow, but still lots of texture and detail.
-* in the blue zones you start to loose  texture and detail.
-* Blue/purple is almost clipped, too much noise, little detail, these will not stand much pushing.
+* The reflective white, or White 90% is mapped to 61 IRE (that means a well lit white paper or a white wall in direct light).
+* On yellow and orange you should have only specular highlights, strong reflections, or some dimmed practical lights.
+* Red marks the white clipping so it's reserved for strong practical lights, or the sun, or anything you know will be irrevocably clipped.
+* Below the Middle Gray you have a green zone, that's for the soft shaded areas, 1 stop below lit skin.
+* dark cyan indicates deeper shadow, but still with lots of texture and detail. That's 2 stops below middle gray.
+* in the blue zones you start to loose  texture and detail. It's for the deep shadows, or darker colors.
+* Blue/purple means almost clipped, too much noise, little detail, these will not stand much pushing.
 * Deep purple is black clip
 
 This is a reference card with this info plotted in table form. 
